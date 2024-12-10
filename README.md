@@ -1,5 +1,5 @@
 Chatingo: A Real-Time Chat Application
-Chatingp is a modern real-time messaging application designed to provide seamless and instant communication. Inspired by popular chat platforms, it includes features like user authentication, real-time messaging, and responsive design, all powered by React and Firebase.
+Chatingo is a modern real-time messaging application designed to provide seamless and instant communication. Inspired by popular chat platforms, it includes features like user authentication, real-time messaging, and responsive design, all powered by React and Firebase.
 
 Features
 User Authentication: Secure sign-up and log-in using Firebase Authentication.
@@ -23,7 +23,7 @@ Node.js installed on your system.
 Firebase account with a Firestore database and Firebase Authentication configured.
 Installation
 Clone the repository: 
-git clone https://github.com/your-username/Chatingo.git  
+git clone https://github.com/jayantcoder/Chatingo.git 
 Navigate to the project directory:
 cd Chatingo 
 Install the dependencies:
